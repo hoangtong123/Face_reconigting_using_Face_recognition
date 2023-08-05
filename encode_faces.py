@@ -39,3 +39,4 @@ data = {"encodings": knownEncodings, "names": knownNames}
 
 with open("encodings.pickle", "wb") as f:
     f.write(pickle.dumps(data))
+"""ditmemthanghuy"""
